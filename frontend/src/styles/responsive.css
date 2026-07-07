@@ -1,0 +1,5 @@
+@media (max-width: 860px) {
+  .navbar-links, .navbar-search { display: none !important; }
+  .navbar-burger { display: block !important; }
+  .food-detail-grid { grid-template-columns: 1fr !important; }
+}
